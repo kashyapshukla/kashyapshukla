@@ -8,17 +8,16 @@ I am a dedicated software engineer with a passion for building scalable and inno
 - Location: Jersey City, NJ, USA
 - Phone: 551-343-8308
 - Email: kashyapshukla2@gmail.com
-- LinkedIn: [Kashyap Shukla](linkedin.com/in/kashyap-shukla)
-- GitHub: [kashyapshukla](github.com/kashyapshukla)
+- LinkedIn: [Kashyap Shukla]([linkedin.com/in/kashyap-shukla])
+- GitHub: [kashyapshukla]([github.com/kashyapshukla])
+- Portfolio: [Personal Protfolio]([https://kashyap-shukla-personal-portfolio.netlify.app/])
 
 ## Education
 - **Master of Science in Computer Science**
   - New York Institute of Technology, New York, NY
   - September 2022 – May 2024
 
-- **Bachelor of Engineering in Electronics and Communications Engineering**
-  - Gujarat Technological University, Ahmedabad, Gujarat
-  - August 2018 – June 2022
+
 
 ## Experience
 - **Software Engineer (Research Assistant)**
