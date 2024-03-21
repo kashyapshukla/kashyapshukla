@@ -10,7 +10,8 @@ I am a dedicated software engineer with a passion for building scalable and inno
 - Email: kashyapshukla2@gmail.com
 - LinkedIn: [Kashyap Shukla]([linkedin.com/in/kashyap-shukla])
 - GitHub: [kashyapshukla]([github.com/kashyapshukla])
-- Portfolio: [PersonalProtfolio]([https://kashyap-shukla-personal-portfolio.netlify.app/])
+- GitHub: [kashyapshukla]([https://kashyap-shukla-personal-portfolio.netlify.app/])
+- Portfolio: [Kashyap Shukla's Personal Portfolio](https://kashyap-shukla-personal-portfolio.netlify.app/)
 
 
 ## Education
