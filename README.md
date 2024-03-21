@@ -11,6 +11,7 @@ I am a dedicated software engineer with a passion for building scalable and inno
 - LinkedIn: [Kashyap Shukla]([linkedin.com/in/kashyap-shukla])
 - GitHub: [kashyapshukla]([github.com/kashyapshukla])
 - Portfolio: [Personal_Protfolio]([https://kashyap-shukla-personal-portfolio.netlify.app/])
+- Portfolio: [Personal_Protfolio]([https://kashyap-shukla-personal-portfolio.netlify.app/])
 
 
 ## Education
