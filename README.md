@@ -18,21 +18,6 @@ I am a dedicated software engineer with a passion for building scalable and inno
   - New York Institute of Technology, New York, NY
   - September 2022 – May 2024
 
-
-
-## Experience
-- **Software Engineer (Research Assistant)**
-  - New York Institute of Technology, New York, NY
-  - March 2023 – Present
-
-- **Academic Technological Services Specialist (ATS)**
-  - New York Institute of Technology, New York, NY
-  - February 2023 – Present
-
-- **Software Engineer Intern**
-  - Exposys Data Lab, Bangalore, India
-  - March 2020 – June 2021
-
 ## Projects
 - **Tuberculosis Detection Through X-ray using Machine Learning**
 - **Order24**
