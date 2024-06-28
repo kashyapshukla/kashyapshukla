@@ -9,7 +9,7 @@ Over 3 years of experience as a Software Engineer developed, deployed, and maint
 - Phone: (917) 745-5908
 - Email: kahyap@itjobsemail.com
 - LinkedIn: [Kashyap Shukla](https://www.linkedin.com/in/kashyap-software-engineer/)
-- GitHub: [kashyapshukla]([github.com/kashyapshukla])
+- GitHub: [kashyapshukla](https://github.com/kashyapshukla)
 
 
 ## Education
