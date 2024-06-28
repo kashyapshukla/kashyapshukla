@@ -8,7 +8,7 @@ I am a dedicated software engineer with a passion for building scalable and inno
 - Location: Jersey City, NJ, USA
 - Phone: 551-343-8308
 - Email: kashyapshukla2@gmail.com
-- LinkedIn: [Kashyap Shukla]([linkedin.com/in/kashyap-shukla])
+- LinkedIn: [Kashyap Shukla](linkedin.com/in/kashyap-shukla)
 - GitHub: [kashyapshukla]([github.com/kashyapshukla])
 - Portfolio: [Kashyap Shukla's Personal Portfolio](https://kashyap-shukla-personal-portfolio.netlify.app/)
 
