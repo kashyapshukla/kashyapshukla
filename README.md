@@ -3,13 +3,7 @@
 # Kashyap Shukla - Software Engineer
 
 ## About Me
-Over 3 years of experience as a Software Engineer developed, deployed, and maintained projects using Java/J2EE and related technologies. Skills include Agile process for effective project delivery, Software Engineer with emphasis on Spring Boot and React, and front-end technologies. Skills include creating effective UIs using HTML, CSS, and JavaScript, and handling RDBMS such as MySQL and PostgreSQL. Led the enhancement of project delivery efficiency by 20%, reduction of system vulnerability by 25%, and improvement of application performance by 30%.
-
-- Location: Jersey City, NJ, USA
-- Phone: (917) 745-5908
-- Email: kahyap@itjobsemail.com
-- LinkedIn: [Kashyap Shukla](https://www.linkedin.com/in/kashyap-software-engineer/)
-- GitHub: [kashyapshukla](https://github.com/kashyapshukla)
+Over 3 years of experience as a Software Engineer developed, deployed, and maintained projects using Java/J2EE and related technologies. Skills include Agile process for effective project delivery, Software Engineer with emphasis on Spring Boot and React, and front-end technologies. Skills include creating effective UIs using HTML, CSS, and JavaScript, and handling RDBMS such as MySQL and PostgreSQL. Led the enhancement of project delivery efficiency by 20%, reduction of system vulnerability by 25%, and improvement of application performance by 30
 
 
 ## Education
